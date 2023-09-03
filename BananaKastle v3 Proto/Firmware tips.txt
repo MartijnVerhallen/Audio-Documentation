@@ -1,0 +1,6 @@
+Firmware:
+https://github.com/bastl-instruments/kastle
+
+There are 2x LFOs and 1x VCO attiny ICs, I use the VCO_2 file, as it works better.
+Here are tips on how to program the Attiny ICs from an Arduino:
+https://www.instructables.com/How-to-Program-an-Attiny85-From-an-Arduino-Uno/
