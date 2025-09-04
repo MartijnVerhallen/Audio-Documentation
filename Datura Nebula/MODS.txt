@@ -1,0 +1,13 @@
+MODS				
+				
+Noise		
+c13, c12, c9 and c8 determine the pitches of the 4 squarewave oscillators that form the noise source.				
+You can experiment with these values for different flavours (lower is slower, higher is noisier)
+Bridge IC 4049 pin 5 & 6 for a wider noise range
+				
+Filter			
+c5 and c6 set the frequency range of the drone oscillators 				
+c7 and r6 set the lowpass filter cutoff range
+
+Mixer				
+r1, r2, r11 set the mix amount of the 3 sources (2x drone osc and noise)				
